@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fadingbeat
-- 👀 I’m interested in photography, and it's really my passion and hobbi. However, my personal goal is to be a good developer. I am focusing on Front-end stuff at the moment.
-- 🌱 I’m currently working on fetching the data about photography, using Shutterstock API. My plan is to do the same with GitHub and then display the project(s) data on the website. 
-- 💞️ I’m looking to collaborate on Web development projects. 
+- 👀 I’m interested in photography, and it's really my passion and hobby. However, my personal goal is to be a good developer. I am focusing on Front-end stuff at the moment.
+- 🌱 I’m currently working on a React webshop, using Commerce.js.
+- 💞️ I would love to collaborate on Web development projects. 
 - 📫 Please, feel free to contact me via email fadingbeat@gmail.com
 
 <!---
