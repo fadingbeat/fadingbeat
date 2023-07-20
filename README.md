@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @fadingbeat
-- 👀 I’m interested in Software Development, with focus on frontend. My goal is to become successful developer and bring value to society.
+- 👀 I’m interested in Software Engineering and Project design. My goal is tobring value to society.
 - 🌱 My career is currenlty evolving with Angular, Typescript, JavaScript and everything related to frontend development.
+- 👩‍💻 Working my way up to full stack development.
 - 💞️ I would love to collaborate on Web development projects. 
 - 📫 Feel free to contact me via email fadingbeat@gmail.com
 
