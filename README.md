@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fadingbeat
-- 👀 I’m interested in Software Engineering and Project design. My goal is to bring value to society.
+- 👀 My goal is to bring value to society by implementing Software Engineering practices and strategies.
 - 🌱 Currently reseraching and learning about AI and Machine Learning principles. 
 - 👩‍💻 Working my way up to full stack development.
 - 💞️ Collaboration possible (Frontend, Backend, DB, AI/ML) 
