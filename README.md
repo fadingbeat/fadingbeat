@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Engineering and Project design. My goal is to bring value to society.
 - 🌱 Currently reseraching and learning about AI and Machine Learning principles. 
 - 👩‍💻 Working my way up to full stack development.
-- 💞️ I would love to collaborate on Web development projects. 
+- 💞️ Collaboration possible (Frontend, Backend, DB, AI/ML) 
 - 📫 Feel free to contact me via email fadingbeat@gmail.com
 
 <!---
