@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fadingbeat
+- 👋 Hi, I’m Nikolina (@fadingbeat)
 - 👀 My goal is to bring value to society by implementing Software Engineering practices and strategies.
 - 🌱 Currently reseraching and learning about AI and Machine Learning principles. 
 - 👩‍💻 Working my way up to full stack development.
