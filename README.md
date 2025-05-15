@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nikolina (@fadingbeat)
 - 👀 My goal is to bring value to society by implementing Software Engineering practices and strategies.
-- 🌱 Currently reseraching and learning about AI and Machine Learning principles. 
-- 👩‍💻 Working my way up to full stack development.
+- 🌱 Currently self employed at VibeIT - company specializing for web development.
+- 👩‍💻 Constantly learning, coding and improving.
 - 💞️ Collaboration possible (Frontend, Backend, DB, AI/ML) 
 - 📫 Feel free to contact me via email fadingbeat@gmail.com
 
