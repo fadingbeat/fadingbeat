@@ -2,11 +2,11 @@
 <div align="center">
 
 # 🌌 Hey, I'm **Nikolina**  
-### _Integrations · Configurations · Deployments · Web Development_
+### _Integration · Configuration · Deployment · Web Development_
 
-💻 **CTO @ VibeIT** — creating seamless digital experiences that simply *work*.  
+💻 **CTO @ VibeIT** — creating secure digital experiences that bring value.  
 🧠 Passionate about **problem solving**, elegant architectures, and smooth workflows.  
-🌐 Obsessed with **clean code, automation, and performance.**
+🌐 Obsessed with code, clarity, and constant improvement.
 
 ---
 
@@ -31,10 +31,10 @@
 ---
 
 ### 💜 Let’s Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikolina-pozega)
-[![Portfolio](https://img.shields.io/badge/nikolina.dev-2B2D42?style=for-the-badge&logo=web&logoColor=white)](https://www.nikolina.dev)
-[![VibeIT](https://img.shields.io/badge/vibeit.hr-0099FF?style=for-the-badge&logo=vercel&logoColor=white)](https://www.vibeit.hr/en)
-[![VibeIT Blog](https://img.shields.io/badge/blog.vibeit.hr-0099FF?style=for-the-badge&logo=vercel&logoColor=white)](https://blog.vibeit.hr)
+[![Portfolio](https://img.shields.io/badge/nikolina.dev-6C63FF?style=for-the-badge&logo=🌐&logoColor=white)](https://www.nikolina.dev)
+[![VibeIT](https://img.shields.io/badge/VibeIT-0099FF?style=for-the-badge&logo=💼&logoColor=white)](https://www.vibeit.hr/en)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikolina-pozega)
+[![VibeIT Blog](https://img.shields.io/badge/Blog-FF69B4?style=for-the-badge&logo=✍️&logoColor=white)](https://blog.vibeit.hr)
 
 ---
 
